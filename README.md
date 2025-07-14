@@ -2,6 +2,19 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&theme=dark&height=300&section=header&text=Hi%20there%20!&fontSize=90)
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&theme=radical&height=300&section=header&text=Hi%20there%20!&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&theme=merko&height=300&section=header&text=Hi%20there%20!&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&theme=gruvbox&height=300&section=header&text=Hi%20there%20!&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&theme=gruvbox_light&height=300&section=header&text=Hi%20there%20!&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&theme=tokyonight&height=300&section=header&text=Hi%20there%20!&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&theme=onedark&height=300&section=header&text=Hi%20there%20!&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&theme=cobalt&height=300&section=header&text=Hi%20there%20!&fontSize=90)
 <!--
 **milotr/milotr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
