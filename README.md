@@ -37,6 +37,8 @@ I've automated processes on Windows 🪟, Android 📱 and Linux 🐧
 
 > *"Code simply. Automate wisely. Live meaningfully."*
 
+![GitHub Snake Animation](https://raw.githubusercontent.com/milotr/milotr/output/github-contribution-grid-snake.svg)
+
 <!--
 **milotr/milotr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
