@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&theme=dark&height=300&section=header&text=Hi%20there%20!&fontSize=90)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&theme=gruvbox&height=300&section=header&text=Hi%20there%20!&fontSize=90&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&theme=gruvbox&height=300&section=header&text=Hi%20there%20!&fontSize=90&fontAlign=25)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&theme=gruvbox_light&height=300&section=header&text=Hi%20there%20!&fontSize=90)
 
