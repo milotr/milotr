@@ -12,7 +12,7 @@ I've automated processes on Windows 🪟, Android 📱 and Linux 🐧
 
 - 💿 Automate boring stuff with **Robocorp**, **Selenium/Playwright**, **Appium**
 - 📄 Image Processing using various OCRs (**PaddleOCR**, **DocUNet**) 📃
-- 🤖 Building effective edge-of-state **AI Agents**! 
+- 🤖 Leveraging effective edge-of-state **AI Agents** for Automating Tasks! 
 - 🧩 Integrate systems with custom connectors & data pipelines 
 - ⚙️ Build and maintain backend services using **Django & REST APIs** 🔑
 - 💽 Convert RPA processes into binary for executions (.exe) using **PyInstaller**, **Nuitka**
