@@ -15,7 +15,7 @@ I've automated processes on Windows 🪟, Android 📱 and Linux 🐧
 - 🤖 Building effective edge-of-state **AI Agents**! 
 - 🧩 Integrate systems with custom connectors & data pipelines 
 - ⚙️ Build and maintain backend services using **Django & REST APIs** 🔑
-- 💽 Convert RPA processes into binary for executions (.exe)
+- 💽 Convert RPA processes into binary for executions (.exe) using **PyInstaller**, **Nuitka**
 - 🐳 **Docker** containerize processes and orchestrate RPA flows 🐋
 
 💾 Tools and Languages
