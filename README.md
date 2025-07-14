@@ -1,16 +1,5 @@
 ## Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&theme=dark&height=300&section=header&text=Hi%20there%20!&fontSize=90)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&theme=gruvbox&height=150&section=header&text=Hi%20there%20!&fontSize=90&fontAlign=50&)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&theme=gruvbox_light&height=300&section=header&text=Hi%20there%20!&fontSize=90)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=300&section=header&text=Hi%20there%20!&fontSize=90)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&theme=onedark&height=300&section=header&text=Hi%20there%20!&fontSize=90)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&theme=cobalt&height=300&section=header&text=Hi%20there%20!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:023047,100:a2d2ff&height=200&section=header&text=Hi%20there!&fontSize=70&fontAlign=25&&fontColor=ededed&animation=fadeIn&fontAlignY=40)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
