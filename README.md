@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:023047,100:a2d2ff&height=280&section=header&text=I'm%20Minh%20Long!&fontSize=70&&fontColor=ededed&animation=fadeIn&desc=A%20Python%20Developer&fontAlignY=40)
 
-👋 Hello! I'm Milo Tran aka Minh Long in 🇻🇳!
+👋 Hello! I'm <a href=https://milotr.github.io/portfolio/>Minh Long</a>!
 --- 
 I'm a Python Developer 🐍 with a focus on **Backend** and **Robotic Process Automation (RPA)**.  
 Currently working at **THL One**, I specialize in building smart automation solutions using **Robocorp**, **Docker**, and **AI**. 🤖
