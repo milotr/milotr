@@ -9,18 +9,19 @@ Currently at **<a href=https://www.thlone.vn/>THLOne</a>**, I design **autonomou
 
 I build, containerize with Docker, and deploy scalable automation across Windows 🪟, Android 📱 and Linux 🐧. Beyond development, I ensure operational excellence by **architecting and maintaining mission-critical RPA processes** with a focus on 24/7 stability and success.
 
-As a tech enthusiast, I’m always exploring state-of-the-art technologies to push the boundaries of what automation can achieve. 
-In my free time, I’m an avid homelab enthusiast, constantly experimenting with self-hosted open-source projects and server orchestration—currently powered by my reliable Macbook Pro 2012 server
+As a tech enthusiast, I’m always exploring **state-of-the-art technologies** to push the boundaries of what automation can achieve. 
+In my free time, I’m an avid **homelab enthusiast**, constantly experimenting with self-hosted open-source projects and server orchestration—currently powered by my reliable Macbook Pro 2012 server
 
 🚀 What I do
 ---
-- 🤖 Orchestrate automated backend conversion (DataWindow to .NET APIs) that runs 24/7
-- 🤖 Design custom AI Agent workflows: Define skills, rules, and guardrails tailored to project scope and specific business requirements and logic.
-- 💿 Hyper-automation: Automate repetitive tasks using **n8n**, **Brity**, **Robocorp**, **Selenium/Playwright**, **Appium**
-- 📄 Intelligent Document Processing (IDP): Implement advanced OCR solutions using (**PaddleOCR**, **DocUNet**)
-- ⚙️ Build and maintain backend services using **Django & REST APIs** 🔑
-- 💽 Convert RPA processes into binary for executions (.exe) using **PyInstaller**, **Nuitka**
-- 🐳 **Docker** containerize processes and orchestrate RPA flows 🐋
+- 🤖 **AI-Driven Backend Migration**: Orchestrate agentic pipelines that autonomously convert legacy **PowerBuilder (DataWindow)** to **.NET C# APIs**.
+- ⚙️ **Autonomous Workflow Integration**: Analyze and design custom AI skills and guardrails to ensure conversion stability, integrated with persistent token management and auto-scaling capabilities that suits business specific requirements.
+- 💿 **Hyper-automation**: Automate repetitive tasks using **n8n**, **Brity**, **Robocorp**, **Selenium/Playwright**, **Appium**
+- 📄 **Intelligent Document Processing (IDP)**: Implement advanced OCR solutions using (**PaddleOCR**, **DocUNet**)
+- ⚙️ **Backend Engineering**: Build and maintain backend services using **Django & REST APIs** 🔑
+- 💽 **Cross-Platform Deployment**: Convert RPA processes into binary for executions (.exe) using **PyInstaller**, **Nuitka**
+- 🐳 **Containerization**: Use **Docker** containerize processes and orchestrate RPA flows 🐋
+- 🏗️ **RPA Framework Architecture**: Built an internal RPA framework, integrating custom Python libraries with a local **SaaS Orchestrator** for centralized bot control and monitoring.
 
 💾 Tools and Languages
 ---
