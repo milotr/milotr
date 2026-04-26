@@ -1,19 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:023047,100:a2d2ff&height=280&section=header&text=I'm%20Minh%20Long!&fontSize=70&&fontColor=ededed&animation=fadeIn&desc=A%20Python%20Developer&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Minh%20Long&desc=AI%20Engineer%20-%20Backend%20Developer&descAlign=50&descAlignY=60&fontAlignY=40)
 
 👋 Hello! I'm <a href=https://milotr.github.io/portfolio/>Minh Long</a>!
 --- 
-I'm a Python Developer 🐍 with a focus on **Backend** and **Robotic Process Automation (RPA)**.  
-Currently working at **THL One**, I specialize in building smart automation solutions using **Robocorp**, **Docker**, and **AI**. 🤖
 
-I've automated processes on Windows 🪟, Android 📱 and Linux 🐧
+I'm a Python Developer 🐍 specializing in **Agentic AI** and **Intelligent Automation**.  
+
+Currently at **<a href=https://www.thlone.vn/>THLOne</a>**, I design **autonomous AI Agentic workflow pipelines** to orchestrate complex backend migrations and sophisticated workflows. My expertise lies in bridging the gap between traditional RPA (Robocorp, Selenium, n8n) and state-of-the-art AI Agent systems.
+
+I build, containerize with Docker, and deploy scalable automation across Windows 🪟, Android 📱 and Linux 🐧. Beyond development, I ensure operational excellence by **architecting and maintaining mission-critical RPA processes** with a focus on 24/7 stability and success.
+
+As a tech enthusiast, I’m always exploring state-of-the-art technologies to push the boundaries of what automation can achieve. 
+In my free time, I’m an avid homelab enthusiast, constantly experimenting with self-hosted open-source projects and server orchestration—currently powered by my reliable Macbook Pro 2012 server
 
 🚀 What I do
 ---
-
-- 💿 Automate boring stuff with **Robocorp**, **Selenium/Playwright**, **Appium**
-- 📄 Image Processing using various OCRs (**PaddleOCR**, **DocUNet**) 📃
-- 🤖 Leveraging effective edge-of-state **AI Agents** for Automating Tasks! 
-- 🧩 Integrate systems with custom connectors & data pipelines 
+- 🤖 Orchestrate automated backend conversion (DataWindow to .NET APIs) that runs 24/7
+- 🤖 Design custom AI Agent workflows: Define skills, rules, and guardrails tailored to project scope and specific business requirements and logic.
+- 💿 Hyper-automation: Automate repetitive tasks using **n8n**, **Brity**, **Robocorp**, **Selenium/Playwright**, **Appium**
+- 📄 Intelligent Document Processing (IDP): Implement advanced OCR solutions using (**PaddleOCR**, **DocUNet**)
 - ⚙️ Build and maintain backend services using **Django & REST APIs** 🔑
 - 💽 Convert RPA processes into binary for executions (.exe) using **PyInstaller**, **Nuitka**
 - 🐳 **Docker** containerize processes and orchestrate RPA flows 🐋
@@ -30,26 +34,9 @@ I've automated processes on Windows 🪟, Android 📱 and Linux 🐧
 
 📫 Let’s connect!
 ---
-
 - 📫 Email: [minhlong010122@gmail.com](mailto:minhlong010122@gmail.com)
 - 🤝 LinkedIn: [Long Tran](https://linkedin.com/in/tranhoangminhlong)
 - 🧠 I'm always learning — feel free to explore my repos!
 
 > *"Code simply. Automate wisely. Live meaningfully."*
-
 ![GitHub Snake Animation](https://raw.githubusercontent.com/milotr/milotr/output/github-contribution-grid-snake.svg)
-
-<!--
-**milotr/milotr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
