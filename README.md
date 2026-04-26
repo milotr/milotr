@@ -5,7 +5,7 @@
 
 I'm a Python Developer 🐍 specializing in **Agentic AI** and **Intelligent Automation**.  
 
-Currently at **<a href=https://www.thlone.vn/>THLOne</a>**, I design **autonomous AI Agentic workflow pipelines** to orchestrate complex backend migrations and sophisticated workflows. My expertise lies in bridging the gap between traditional RPA (Robocorp, Selenium, n8n) and state-of-the-art AI Agent systems.
+Currently at **<a href=https://www.thlone.vn/>THLOne</a>**, I design **autonomous AI Agentic workflow pipelines** to orchestrate complex backend migrations and sophisticated workflows. My expertise lies in bridging the gap between traditional **RPA** (Robocorp, Selenium, n8n) and state-of-the-art **AI Agent** systems.
 
 I build, containerize with Docker, and deploy scalable automation across Windows 🪟, Android 📱 and Linux 🐧. Beyond development, I ensure operational excellence by **architecting and maintaining mission-critical RPA processes** with a focus on 24/7 stability and success.
 
